@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-/* problem A
+// problem A
 int main() {
 
     int agree = 0;
@@ -19,7 +19,7 @@ int main() {
     }
 
     return 0;
-}*/
+}
 
 
 /* Problem B

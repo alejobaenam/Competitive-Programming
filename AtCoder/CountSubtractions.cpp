@@ -4,7 +4,7 @@ typedef long long ll;
 
 int main() {
 
-    //no hecho
+    //Not finished
 
     long a, b; cin >> a >> b;
     long c = 0;
